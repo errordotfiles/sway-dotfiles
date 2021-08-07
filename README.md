@@ -1,4 +1,7 @@
 # sway-dotfiles
+
+![alt text](https://raw.githubusercontent.com/errordotfiles/sway-dotfiles/main/preview/1.jpg)
+
 OS : [Arch Linux](https://archlinux.org)
 
 Shell : [Fish](https://fishshell.com)
