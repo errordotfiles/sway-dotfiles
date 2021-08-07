@@ -16,6 +16,8 @@ Color Scheme : [Nord](https://nordtheme.com)
 
 Font : [Noto Sans Mono Light](https://www.google.com/get/noto)
 
+![alt text](https://raw.githubusercontent.com/errordotfiles/sway-dotfiles/main/preview/9.jpg)
+
 Terminal : [Alacritty](https://github.com/alacritty/alacritty)
 
 ![alt text](https://raw.githubusercontent.com/errordotfiles/sway-dotfiles/main/preview/2.jpg)
