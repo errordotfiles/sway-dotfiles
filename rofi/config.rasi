@@ -1,0 +1,10 @@
+configuration {
+    /* modi: "combi,drun,clipboard:greenclip print"; */
+    modi: "combi,drun,";
+    theme: "onedark";
+  icon-theme: "Papirus-Dark";
+  show-icons: true;
+  terminal: "alacritty";
+  combi-modi: "window,ssh,drun,run";
+  font: "JetBrains Mono 16";
+}
