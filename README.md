@@ -12,6 +12,8 @@ Shell : [Fish](https://fishshell.com)
 
 Color Scheme : [Nord](https://nordtheme.com)
 
+![alt text](https://raw.githubusercontent.com/errordotfiles/sway-dotfiles/main/preview/8.jpg)
+
 Font : [Noto Sans Mono Light](https://www.google.com/get/noto)
 
 Terminal : [Alacritty](https://github.com/alacritty/alacritty)
