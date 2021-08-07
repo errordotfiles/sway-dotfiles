@@ -32,11 +32,11 @@ Panel : [Waybar](https://github.com/Alexays/waybar)
 
 Wallpaper : [Random Mountain](https://vsthemes.org/uploads/posts/2020-04/1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg)
 
-![alt text](https://raw.githubusercontent.com/errordotfiles/sway-dotfiles/main/preview/10.jpg)
+![alt text](https://vsthemes.org/uploads/posts/2020-04/1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg)
 
 Browser : [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) with [DuckDuckGo](https://duckduckgo.com)
 
-![alt text](https://vsthemes.org/uploads/posts/2020-04/1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg)
+![alt text](https://raw.githubusercontent.com/errordotfiles/sway-dotfiles/main/preview/10.jpg)
 
 Start Page : [nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 
