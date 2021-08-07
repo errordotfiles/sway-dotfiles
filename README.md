@@ -20,7 +20,7 @@ Launcher : [Rofi](https://github.com/davatorium/rofi)
 
 Panel : [Waybar](https://github.com/Alexays/waybar)
 
-![alt text](https://raw.githubusercontent.com/errordotfiles/sway-dotfiles/main/preview/5.jpg)
+![alt text](https://raw.githubusercontent.com/errordotfiles/sway-dotfiles/main/preview/5.png)
 
 Browser : [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) with [DuckDuckGo](https://duckduckgo.com)
 
