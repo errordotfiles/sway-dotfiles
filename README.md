@@ -4,6 +4,8 @@
 
 OS : [Arch Linux](https://archlinux.org)
 
+![alt text](https://raw.githubusercontent.com/errordotfiles/sway-dotfiles/main/preview/6.jpg)
+
 Shell : [Fish](https://fishshell.com)
 
 Color Scheme : [Nord](https://nordtheme.com)
