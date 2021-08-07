@@ -32,6 +32,8 @@ Panel : [Waybar](https://github.com/Alexays/waybar)
 
 Browser : [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) with [DuckDuckGo](https://duckduckgo.com)
 
+![alt text](https://raw.githubusercontent.com/errordotfiles/sway-dotfiles/main/preview/10.jpg)
+
 Start Page : [nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 
 ![alt text](https://raw.githubusercontent.com/errordotfiles/sway-dotfiles/main/preview/3.jpg)
