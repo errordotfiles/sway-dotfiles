@@ -40,6 +40,8 @@ Start Page : [nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/
 
 Text Editor : [neovim](https://github.com/neovim/neovim)
 
+![alt text](https://raw.githubusercontent.com/errordotfiles/sway-dotfiles/main/preview/11.jpg)
+
 [unixporn post](https://www.reddit.com/r/unixporn/comments/ozhmnr/sway_ricing_your_mom/)
 
 
