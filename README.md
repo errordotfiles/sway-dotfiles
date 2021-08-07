@@ -8,6 +8,8 @@ OS : [Arch Linux](https://archlinux.org)
 
 Shell : [Fish](https://fishshell.com)
 
+![alt text](https://raw.githubusercontent.com/errordotfiles/sway-dotfiles/main/preview/7.jpg)
+
 Color Scheme : [Nord](https://nordtheme.com)
 
 Font : [Noto Sans Mono Light](https://www.google.com/get/noto)
