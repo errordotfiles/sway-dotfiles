@@ -44,4 +44,7 @@ Text Editor : [neovim](https://github.com/neovim/neovim)
 
 [unixporn post](https://www.reddit.com/r/unixporn/comments/ozhmnr/sway_ricing_your_mom/)
 
+![alt text](https://raw.githubusercontent.com/errordotfiles/sway-dotfiles/main/preview/12.jpg)
+
+i need upvote :(
 
