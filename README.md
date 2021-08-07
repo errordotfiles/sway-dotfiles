@@ -13,7 +13,7 @@ Launcher : [Rofi](https://github.com/davatorium/rofi)
 
 Panel : [Waybar](https://github.com/Alexays/waybar)
 
-Browser : [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) with [DuckDuckGo](duckduckgo.com)
+Browser : [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) with [DuckDuckGo](https://duckduckgo.com)
 
 Start Page : [nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 
